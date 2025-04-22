@@ -227,8 +227,9 @@
                 padding-inline: 15px;
             }
             #item8 .circle {
-                width: 150px;
-                height: 200px;
+                width: 60px;
+                max-width: fit-content;
+                overflow: hidden;
             }
             #item10 {
                 width: fit-content;
